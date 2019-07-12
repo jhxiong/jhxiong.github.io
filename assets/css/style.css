@@ -1,45 +1,38 @@
-/* styles.css */
-body {
-    background: #fff;
-    margin: 100px;    /* This will be replaced with 0 ( 0px; )*/
-    padding: 0;
+html {
+  background-color: #eeeeee; 
 }
 
-.center { text-align: center; }
-
-.done {
-    color: red;
-    font: 20px bold arial, verdana, helvetica, sans;
-    margin: 10px auto;
-    width: 88px;
+body { 
+  font-family: Georgia, Helvetica, Arial, Verdana, san-serif, Times;
+  color: #000;
+  background-color: #ffffff; 
+  text-align:left; /* for IE */
+  margin-top: 30px; 
+  margin-bottom: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left:  50px;
+  padding-right: 50px;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  max-width: 960px;
 }
 
-.emoticon {
-    margin: 0 0 0 50px;
-    height: 30px;
-    width: 35px;
+table{ background-color: #ffffff; }
+
+a, a:link, a:visited {
+  color: #1f82a9;
+  background:transparent text-decoration: underline;
+  cursor:pointer; background-color:underline
+}
+a:hover {
+  color: #006699;
+  background:inherit;
+  text-decoration: underline;
 }
 
-.license {
-    margin: 50px auto;
-    height: 31px;
-    width: 88px;
-}
+img { border: 0; }
 
-.codehtml,
-.codephp,
-.codetext {
-    background: #1e5799;
-    background: linear-gradient(to bottom, #1e5799 0%, #2989d8 50%, #207cca 51%, #7db9e8 100%);
-    font: normal 8pt mono, "Courier New", Courier;
-    margin: 0em 5px;    /* This will be replaced with 0 ( 0em; )*/
-    padding: 5px;
-}
+h1,h2,h3,h4 { font-family: Georgia,Helvetica,Arial,Verdana, san-serif, Times; }
 
-.someclass {
-    background: #4C5A64;
-    background: linear-gradient(180deg, #6D818F 1%, #404F5A 60%, #2E3940 99%);
-    border: #000 solid 1px;
-    border-radius: 5px;
-    box-sizing: content-box;
-}
+p { font-size:15;}
