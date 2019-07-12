@@ -1,6 +1,8 @@
 <html>
-<head>
+<head>	 
+<meta name="description" content="Jinhui Xiong's home page">
 <link rel="stylesheet" href="assets/css/style.css">
+<title>Jinhui Xiong - Homepage</title>
 </head>
   
 <body>
