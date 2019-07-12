@@ -32,7 +32,7 @@
  
 <hr>
 <h3>Bio:</h3>
-<p>Jinhui Xiong is a fourth-year Computer Science PhD student at Visual Computing Center, King Abdullah University of Science and Technology  (KAUST), working with Professor <a href="https://vccimaging.org/People/heidriw/">Wolfgang Heidrich</a>. He is a member of Computational Imaging Group. His work is specilized on computational imaging, which is a highly interdisciplinary research field combining methods from optimization, computer vision, optics, computer graphics.</p>
+<p>Jinhui Xiong is a fourth-year Computer Science PhD student at Visual Computing Center, King Abdullah University of Science and Technology  (KAUST), working with Professor <a href="https://vccimaging.org/People/heidriw/">Wolfgang Heidrich</a>. He is a member of Computational Imaging Group. His work is specilized on computational fluid imaging, which is a highly interdisciplinary research field combining methods from optimization, computer vision, optics, computer graphics. He is also interested in studying novel imaging methodologies that can be utilized for 3D scene reconstruction or related research topics.</p>
 <p>Jinhui will do a research intern at the Computational Imaging Lab at Snap Research (New York City). </p>
 
 <hr>
@@ -75,11 +75,11 @@
 </tr>	
 </table>
 
-<h3>Patens: </h3>
+<h3>Patents:</h3>
 <table id="Patents" width="100%">
 <tr>		
 <td>
-  Wolfgang Heidrich, <b>Jinhui Xiong</b>, Xiong Dun, Ramzi Idoughi, Sigurdur Tryggvi Thoroddsen,
+Wolfgang Heidrich, <b>Jinhui Xiong</b>, Xiong Dun, Ramzi Idoughi, Sigurdur Tryggvi Thoroddsen,
 Andres A Aguirre-Pablo, Abdulrahman B Aljedaani, Erqiang Li, “Rainbow Particle Imaging
 Velocimetry for Dense 3D Fluid Velocity Imaging,” Aug 2018, U.S. Patent 15,498,317.
 </td>	
