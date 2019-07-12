@@ -1,37 +1,91 @@
-## Welcome to GitHub Pages
+<html><head>
+<meta name="keywords" content="Jinhui Xiong, CS, KAUST"> 
+<meta name="description" content="Jinhui's home page">
+<link href="main.css" media="all" rel="stylesheet">
+<title>Jinhui Xiong - Homepage</title>
+</head>
+  
+<body>
+<table id="personalInfo" width="100%">
+	<tr>
+		<td width="500">
+		<h1>Jinhui Xiong</h1>
+		</td>
+		<td rowspan="3" align="center">
+		<img src="assets/img/avatar.jpg" border="0" width="400" height="225">
+		</td>
+	</tr>
+<br>
+<br>
+	<tr>
+		<td>	
+        <h3>CS PHD student, KAUST</h3>		
+<br>
+		Email: jinhui.xiong@kaust.edu.sa
+		</td>
+	</tr>
+</table>
+  
+<hr>
+<h3>Research Interests:</h3>
+<p>Computational Imaging, 3D Reconstruction, Optical Flow, Representation Learning, Numerical Optimization  </p>  
+ 
+<hr>
+<h3>Bio:</h3>
+<p>Jinhui Xiong is a fourth-year Computer Science PhD student at Visual Computing Center, King Abdullah University of Science and Technology  (KAUST), working with Professor <a href="https://vccimaging.org/People/heidriw/">Wolfgang Heidrich</a>. He is a member of Computational Imaging Group. His work is specilized on computational imaging, which is a highly interdisciplinary research field combining methods from optimization, computer vision, optics, computer graphics.</p>
+<p>Jinhui will do a research intern at the Computational Imaging Lab at Snap Research (New York City). </p>
 
-You can use the [editor on GitHub](https://github.com/jxiong7/jinhuixiong.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<hr>
+<h3>Education:</h3>
+<ul>
+  <li>2017 - Now: Ph.D. in Computer Science, KAUST</li>
+  <li>2015 - 2016: M. Sc in Computer Science, KAUST</li>
+  <li>2011 - 2015: B. Eng in Electrical Engineering, City University of Hong Kong</li>
+</ul>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h3>Publications: </h3>
+<p><a href="https://scholar.google.com/citations?user=G2aQMDEAAAAJ&hl=en">Google Scholar</a></p>
+<table id="Publications" width="100%">
 
-### Markdown
+<tr>
+<td width="150"> <img src="assets/img/2019singlecamera/thumb.jpg" width="290px">		</td>		
+  <td>A. A. Aguirre-Pablo, A. B. Aljedaani, <b>J. Xiong</b>, R. Idoughi, W. Heidrich, S. T. Thoroddsen, &quot;Single-camera 3D PTV using particle intensities and structured light&quot;, Experiments in Fluids, 2019.
+<p>[<a href="https://vccimaging.org/Publications/Aguire-Pablo2019SingleCameraPTV/">Project Page</a>]</p> 	
+</td>	
+</tr>	
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<tr>
+<td width="150"> <img src="" width="290px">		</td>		
+  <td>Z. Xu, P. Fang, B. Xu, Y. Lu, <b>J. Xiong</b>, F. Gao, X. Wang, J. Fan, P. Shi, &quot;High-throughput three-dimensional chemotactic assays reveal steepness-dependent complexity in neuronal sensation to molecular gradients&quot;, Nature communications, 2019.
+</td>	
+</tr>	
 
-```markdown
-Syntax highlighted code block
+<tr>
+<td width="150"> <img src="assets/img/2018reconfigurable/thumb.jpg" width="290px">		</td>		
+  <td><b>J. Xiong</b>, Q. Fu, R. Idoughi, W. Heidrich, &quot;Reconfigurable Rainbow PIV for 3D Flow Measurement&quot;, IEEE International Conference on Computational Photography (ICCP), 2018.
+<p>[<a href="https://vccimaging.org/Publications/Xiong2017RainbowPIV/">Project Page</a>]</p> 	
+</td>	
+</tr>	
 
-# Header 1
-## Header 2
-### Header 3
+<tr>
+<td width="150"> <img src="assets/img/2017rainbow/thumb.jpg" width="290px">		</td>		
+  <td><b>J. Xiong</b>, R. Idoughi, A. Aguirre-Pablo, A. Aljedaani, X. Dun, Q. Fu, S. T. Thoroddsen, W. Heidrich, &quot;Rainbow Particle Imaging Velocimetry for Dense 3D Fluid Velocity Imaging&quot;, ACM Transactions on Graphics (Proc. SIGGRAPH), 2017.
+<p>[<a href="https://vccimaging.org/Publications/Xiong2017RainbowPIV/">Project Page</a>]</p> 	
+</td>	
+</tr>	
+</table>
 
-- Bulleted
-- List
+<h3>Patens: </h3>
+<table id="Patents" width="100%">
+<tr>		
+<td>
+  Wolfgang Heidrich, <b>Jinhui Xiong</b>, Xiong Dun, Ramzi Idoughi, Sigurdur Tryggvi Thoroddsen,
+Andres A Aguirre-Pablo, Abdulrahman B Aljedaani, Erqiang Li, “Rainbow Particle Imaging
+Velocimetry for Dense 3D Fluid Velocity Imaging,” Aug 2018, U.S. Patent 15,498,317.
+</td>	
+</tr>	
+</table>
 
-1. Numbered
-2. List
+</body>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jxiong7/jinhuixiong.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</html>
