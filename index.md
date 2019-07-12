@@ -1,7 +1,7 @@
 <html><head>
 <meta name="keywords" content="Jinhui Xiong, CS, KAUST"> 
 <meta name="description" content="Jinhui's home page">
-<link rel="stylesheet" href="https://congliwang.github.io/assets/css/style.css">
+<link rel="stylesheet" href="assets/css/style.css">
 <title>Jinhui Xiong - Homepage</title>
 </head>
   
