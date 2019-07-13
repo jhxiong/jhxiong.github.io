@@ -48,27 +48,27 @@
 <table id="Publications" width="100%">
 
 <tr>
-<td width="150"> <img src="assets/img/2019singlecamera/thumb.jpg" width="290px">		</td>		
+<td> <img src="assets/img/2019singlecamera/thumb.jpg" width="150px">		</td>		
   <td>A. A. Aguirre-Pablo, A. B. Aljedaani, <b>J. Xiong</b>, R. Idoughi, W. Heidrich, S. T. Thoroddsen, &quot;Single-camera 3D PTV using particle intensities and structured light&quot;, Experiments in Fluids, 2019.
 <p>[<a href="https://vccimaging.org/Publications/Aguire-Pablo2019SingleCameraPTV/">Project Page</a>]</p> 	
 </td>	
 </tr>	
 
 <tr>
-<td width="150"> <img src="" width="290px">		</td>		
+<td> <img src="" width="150px">		</td>		
   <td>Z. Xu, P. Fang, B. Xu, Y. Lu, <b>J. Xiong</b>, F. Gao, X. Wang, J. Fan, P. Shi, &quot;High-throughput three-dimensional chemotactic assays reveal steepness-dependent complexity in neuronal sensation to molecular gradients&quot;, Nature communications, 2019.
 </td>	
 </tr>	
 
 <tr>
-<td width="150"> <img src="assets/img/2018reconfigurable/thumb.jpg" width="290px">		</td>		
+<td> <img src="assets/img/2018reconfigurable/thumb.jpg" width="150px">		</td>		
   <td><b>J. Xiong</b>, Q. Fu, R. Idoughi, W. Heidrich, &quot;Reconfigurable Rainbow PIV for 3D Flow Measurement&quot;, IEEE International Conference on Computational Photography (ICCP), 2018.
 <p>[<a href="https://vccimaging.org/Publications/Xiong2017RainbowPIV/">Project Page</a>]</p> 	
 </td>	
 </tr>	
 
 <tr>
-<td width="150"> <img src="assets/img/2017rainbow/thumb.jpg" width="290px">		</td>		
+<td> <img src="assets/img/2017rainbow/thumb.jpg" width="150px">		</td>		
   <td><b>J. Xiong</b>, R. Idoughi, A. Aguirre-Pablo, A. Aljedaani, X. Dun, Q. Fu, S. T. Thoroddsen, W. Heidrich, &quot;Rainbow Particle Imaging Velocimetry for Dense 3D Fluid Velocity Imaging&quot;, ACM Transactions on Graphics (Proc. SIGGRAPH), 2017.
 <p>[<a href="https://vccimaging.org/Publications/Xiong2017RainbowPIV/">Project Page</a>]</p> 	
 </td>	
