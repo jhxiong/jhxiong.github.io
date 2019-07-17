@@ -3,6 +3,16 @@
 <meta name="description" content="Jinhui Xiong's home page">
 <link rel="stylesheet" href="assets/css/style.css">
 <title>Jinhui Xiong - Homepage</title>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-144044596-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-144044596-1');
+</script>
 </head>
   
 <body>
