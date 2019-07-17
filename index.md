@@ -1,9 +1,5 @@
 <html>
-<head>	 
-<meta name="description" content="Jinhui Xiong's home page">
-<link rel="stylesheet" href="assets/css/style.css">
-<title>Jinhui Xiong - Homepage</title>
-
+<head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-144044596-1"></script>
 <script>
@@ -13,6 +9,9 @@
 
   gtag('config', 'UA-144044596-1');
 </script>
+<meta name="description" content="Jinhui Xiong's home page">
+<link rel="stylesheet" href="assets/css/style.css">
+<title>Jinhui Xiong - Homepage</title>
 </head>
   
 <body>
