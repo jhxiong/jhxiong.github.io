@@ -57,6 +57,13 @@
 <table id="Publications" width="100%">
 
 <tr>
+<td> <img src="assets/img/2019CSCS/thumb.jpg" width="100px">		</td>		
+  <td><b>J. Xiong</b>, P. Richtarik, W. Heidrich &quot;Stochastic Convolutional Sparse Coding&quot;, The International Symposium on Vision, Modeling, and Visualization, 2019.
+<p>[<a href="https://vccimaging.org/Publications/Xiong2019StochasticCSC/">Project Page</a>]</p> 	
+</td>	
+</tr>	
+
+<tr>
 <td> <img src="assets/img/2019singlecamera/thumb.jpg" width="100px">		</td>		
   <td>A. A. Aguirre-Pablo, A. B. Aljedaani, <b>J. Xiong</b>, R. Idoughi, W. Heidrich, S. T. Thoroddsen, &quot;Single-camera 3D PTV using particle intensities and structured light&quot;, Experiments in Fluids, 2019.
 <p>[<a href="https://vccimaging.org/Publications/Aguire-Pablo2019SingleCameraPTV/">Project Page</a>]</p> 	
