@@ -58,7 +58,7 @@
 
 <tr>
 <td> <img src="assets/img/2019CSCS/thumb.jpg" width="100px">		</td>		
-  <td><b>J. Xiong</b>, P. Richtarik, W. Heidrich &quot;Stochastic Convolutional Sparse Coding&quot;, The International Symposium on Vision, Modeling and Visualization, 2019.
+  <td><b>J. Xiong</b>, P. Richtarik, W. Heidrich, &quot;Stochastic Convolutional Sparse Coding&quot;, The International Symposium on Vision, Modeling and Visualization, 2019.
 <p>[<a href="https://vccimaging.org/Publications/Xiong2019StochasticCSC/">Project Page</a>]</p> 	
 </td>	
 </tr>	
