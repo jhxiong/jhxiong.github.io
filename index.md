@@ -1,6 +1,5 @@
 <html>
 <head>
-<meta name="google-site-verification" content="eRLyhcIU4ZeZsNViH5cCXgT2RHidH8AyWTDs8SSG-po" />	
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-144044596-1"></script>
 <script>
@@ -12,6 +11,7 @@
 </script>
 <meta name="description" content="Jinhui Xiong's home page">
 <link rel="stylesheet" href="assets/css/style.css">
+<meta name="google-site-verification" content="eRLyhcIU4ZeZsNViH5cCXgT2RHidH8AyWTDs8SSG-po" />
 <title>Jinhui Xiong - Homepage</title>
 </head>
   
