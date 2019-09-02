@@ -10,7 +10,7 @@
 
   gtag('config', 'UA-144044596-1');
 </script>
-<meta name="description" content="Jinhui Xiong's home page">
+<!-- meta name="description" content="Jinhui Xiong's home page" -->
 <link rel="stylesheet" href="assets/css/style.css">
 <meta name="google-site-verification" content="eRLyhcIU4ZeZsNViH5cCXgT2RHidH8AyWTDs8SSG-po" />
 <title>Jinhui Xiong - Homepage</title>
