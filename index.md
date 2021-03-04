@@ -62,7 +62,7 @@
 <table id="Publications" width="100%">
 
 <tr>
-<td> <img src="assets/img/2020RainbowPIV/thumb.jpg" width="100px">		</td>		
+<td> <img src="assets/img/2021Red/thumb.jpg" width="100px">		</td>		
   <td><b>J. Xiong</b>, J. Wang, W. Heidrich, S. Nayar &quot;Seeing in Extra Darkness Using a Deep-Red Flash_ID6914&quot;, CVPR, 2021. (Oral)
 <p>Project Page [coming soon]</p> 	
 </td>	
@@ -94,7 +94,9 @@ design and comparative study with TomoPIV&quot;, Measurement Science and Technol
 <td> <img src="" width="100px">		</td>		
   <td>Z. Xu, P. Fang, B. Xu, Y. Lu, <b>J. Xiong</b>, F. Gao, X. Wang, J. Fan, P. Shi, &quot;High-throughput three-dimensional chemotactic assays reveal steepness-dependent complexity in neuronal sensation to molecular gradients&quot;, Nature communications, 2019.
 </td>	
-</tr>	
+</tr>
+
+<br>
 
 <tr>
 <td> <img src="assets/img/2018reconfigurable/thumb.jpg" width="100px">		</td>		
