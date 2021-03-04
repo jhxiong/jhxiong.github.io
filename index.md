@@ -63,7 +63,7 @@
 
 <tr>
 <td> <img src="assets/img/2021Red/thumb.jpg" width="100px">		</td>		
-  <td><b>J. Xiong</b>, J. Wang, W. Heidrich, S. Nayar &quot;Seeing in Extra Darkness Using a Deep-Red Flash_ID6914&quot;, CVPR, 2021. (Oral)
+  <td><b>J. Xiong</b>, J. Wang, W. Heidrich, S. Nayar &quot;Seeing in Extra Darkness Using a Deep-Red Flash&quot;, CVPR, 2021. (Oral)
 <p>Project Page [coming soon]</p> 	
 </td>	
 </tr>
