@@ -39,7 +39,7 @@
   
 <hr>
 <h3>Research Interests</h3>
-<p>Computational Imaging, 3D Reconstruction, Optical Flow, Representation Learning, Numerical Optimization  </p>  
+<p>Computational Imaging, 3D Reconstruction, Optical Flow, Numerical Optimization, Low-Light Imaging</p>  
  
 <hr>
 <h3>Biography</h3>
@@ -74,7 +74,7 @@ CVPR 2021 (Oral)</p>
 <tr>
 <td> <img src="assets/img/2020RainbowPIV/thumb.jpg" width="200px">		</td>	
 <td style="padding:20px;width:75%;vertical-align:middle">
-<p><b>RainbowPIV with improved depth resolution – design and comparative study with TomoPIV</b><br>
+<p><b>RainbowPIV with improved depth resolution – <br> design and comparative study with TomoPIV</b><br>
 <b>J. Xiong</b>, A. Aguirre-Pablo, R. Idoughi, S. Thoroddsen, W. Heidrich<br>
 Measurement Science and Technology 2020</p>
 <p>[<a href="https://vccimaging.org/Publications/Xiong2020SuperDepthRainbowPIV/">Project Page</a>]</p> 	
