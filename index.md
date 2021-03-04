@@ -66,7 +66,7 @@
 <td style="padding:20px;width:75%;vertical-align:middle">
 <p><b>Seeing in Extra Darkness Using a Deep-Red Flash</b><br>
 <b>J. Xiong</b>, J. Wang, W. Heidrich, S. Nayar<br>
-CVPR 2021 (Oral)</p>
+<em>CVPR</em> 2021 (Oral)</p>
 <p>Project Page [coming soon]</p> 	
 </td>	
 </tr>
@@ -76,7 +76,7 @@ CVPR 2021 (Oral)</p>
 <td style="padding:20px;width:75%;vertical-align:middle">
 <p><b>RainbowPIV with improved depth resolution – <br> design and comparative study with TomoPIV</b><br>
 <b>J. Xiong</b>, A. Aguirre-Pablo, R. Idoughi, S. Thoroddsen, W. Heidrich<br>
-Measurement Science and Technology 2020</p>
+<em>Measurement Science and Technology</em> 2020</p>
 <p>[<a href="https://vccimaging.org/Publications/Xiong2020SuperDepthRainbowPIV/">Project Page</a>]</p> 	
 </td>	
 </tr>
@@ -86,7 +86,7 @@ Measurement Science and Technology 2020</p>
 <td style="padding:20px;width:75%;vertical-align:middle">
 <p><b>Stochastic Convolutional Sparse Coding</b><br>
 <b>J. Xiong</b>, P. Richtarik, W. Heidrich<br>
-The International Symposium on Vision, Modeling and Visualization, 2019. (Best Paper Award)</p>
+<em>The International Symposium on Vision, Modeling and Visualization</em>, 2019 (Best Paper Award)</p>
 <p>[<a href="https://vccimaging.org/Publications/Xiong2019StochasticCSC/">Project Page</a>]</p> 	
 </td>	
 </tr>	
@@ -96,17 +96,17 @@ The International Symposium on Vision, Modeling and Visualization, 2019. (Best P
 <td style="padding:20px;width:75%;vertical-align:middle">
 <p><b>Single-camera 3D PTV using particle intensities and structured light</b><br>
 A. A. Aguirre-Pablo, A. B. Aljedaani, <b>J. Xiong</b>, R. Idoughi, W. Heidrich, S. T. Thoroddsen<br>
-Experiments in Fluids 2019</p>
+<em>Experiments in Fluids</em> 2019</p>
 <p>[<a href="https://vccimaging.org/Publications/Aguire-Pablo2019SingleCameraPTV/">Project Page</a>]</p> 	
 </td>	
 </tr>	
 
 <tr>
-<td> <img src="" width="100px">		</td>	
+<td> <img src="assets/img/2018nature/thumb.jpg" width="200px">	</td>	
 <td style="padding:20px;width:75%;vertical-align:middle">
 <p><b>High-throughput three-dimensional chemotactic assays reveal steepness-dependent complexity in neuronal sensation to molecular gradients</b><br>
 Z. Xu, P. Fang, B. Xu, Y. Lu, <b>J. Xiong</b>, F. Gao, X. Wang, J. Fan, P. Shi<br>
-Nature communications 2019</p>
+<em>Nature communications</em> 2019</p>
 </td>	
 </tr>
 
@@ -115,7 +115,7 @@ Nature communications 2019</p>
 <td style="padding:20px;width:75%;vertical-align:middle">
 <p><b>Reconfigurable Rainbow PIV for 3D Flow Measurement</b><br>
 <b>J. Xiong</b>, Q. Fu, R. Idoughi, W. Heidrich<br>
-IEEE International Conference on Computational Photography (ICCP) 2018</p>	
+<em>IEEE International Conference on Computational Photography (ICCP)</em> 2018</p>	
 <p>[<a href="https://vccimaging.org/Publications/Xiong2017RainbowPIV/">Project Page</a>]</p> 	
 </td>	
 </tr>	
@@ -125,7 +125,7 @@ IEEE International Conference on Computational Photography (ICCP) 2018</p>
 <td style="padding:20px;width:75%;vertical-align:middle">
 <p><b>Rainbow Particle Imaging Velocimetry for Dense 3D Fluid Velocity Imaging</b><br>
 <b>J. Xiong</b>, R. Idoughi, A. Aguirre-Pablo, A. Aljedaani, X. Dun, Q. Fu, S. T. Thoroddsen, W. Heidrich<br>
-ACM Transactions on Graphics (Proc. SIGGRAPH) 2017</p>	
+<em>ACM Transactions on Graphics (Proc. SIGGRAPH)</em> 2017</p>	
 <p>[<a href="https://vccimaging.org/Publications/Xiong2017RainbowPIV/">Project Page</a>]</p> 	
 </td>	
 </tr>	
