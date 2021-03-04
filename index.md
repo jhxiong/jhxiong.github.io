@@ -62,14 +62,14 @@
 <table id="Publications" width="100%">
 
 <tr>
-<td> <img src="assets/img/2021Red/thumb.jpg" width="100px">		</td>		
+<td> <img src="assets/img/2021Red/thumb.jpg" width="150px">		</td>		
   <td><b>J. Xiong</b>, J. Wang, W. Heidrich, S. Nayar &quot;Seeing in Extra Darkness Using a Deep-Red Flash&quot;, CVPR, 2021. (Oral)
 <p>Project Page [coming soon]</p> 	
 </td>	
 </tr>
 
 <tr>
-<td> <img src="assets/img/2020RainbowPIV/thumb.jpg" width="100px">		</td>		
+<td> <img src="assets/img/2020RainbowPIV/thumb.jpg" width="150px">		</td>		
   <td><b>J. Xiong</b>, A. Aguirre-Pablo, R. Idoughi, S. Thoroddsen, W. Heidrich, &quot;RainbowPIV with improved depth resolution –
 design and comparative study with TomoPIV&quot;, Measurement Science and Technology, 2020.
 <p>[<a href="https://vccimaging.org/Publications/Xiong2020SuperDepthRainbowPIV/">Project Page</a>]</p> 	
@@ -77,14 +77,14 @@ design and comparative study with TomoPIV&quot;, Measurement Science and Technol
 </tr>
 
 <tr>
-<td> <img src="assets/img/2019CSCS/thumb.jpg" width="100px">		</td>		
+<td> <img src="assets/img/2019CSCS/thumb.jpg" width="150px">		</td>		
   <td><b>J. Xiong</b>, P. Richtarik, W. Heidrich, &quot;Stochastic Convolutional Sparse Coding&quot;, The International Symposium on Vision, Modeling and Visualization, 2019. (Best Paper Award)
 <p>[<a href="https://vccimaging.org/Publications/Xiong2019StochasticCSC/">Project Page</a>]</p> 	
 </td>	
 </tr>	
 
 <tr>
-<td> <img src="assets/img/2019singlecamera/thumb.jpg" width="100px">		</td>		
+<td> <img src="assets/img/2019singlecamera/thumb.jpg" width="150px">		</td>		
   <td>A. A. Aguirre-Pablo, A. B. Aljedaani, <b>J. Xiong</b>, R. Idoughi, W. Heidrich, S. T. Thoroddsen, &quot;Single-camera 3D PTV using particle intensities and structured light&quot;, Experiments in Fluids, 2019.
 <p>[<a href="https://vccimaging.org/Publications/Aguire-Pablo2019SingleCameraPTV/">Project Page</a>]</p> 	
 </td>	
@@ -101,14 +101,14 @@ design and comparative study with TomoPIV&quot;, Measurement Science and Technol
 <br><br><br>
 
 <tr>
-<td> <img src="assets/img/2018reconfigurable/thumb.jpg" width="100px">		</td>		
+<td> <img src="assets/img/2018reconfigurable/thumb.jpg" width="150px">		</td>		
   <td><b>J. Xiong</b>, Q. Fu, R. Idoughi, W. Heidrich, &quot;Reconfigurable Rainbow PIV for 3D Flow Measurement&quot;, IEEE International Conference on Computational Photography (ICCP), 2018.
 <p>[<a href="https://vccimaging.org/Publications/Xiong2017RainbowPIV/">Project Page</a>]</p> 	
 </td>	
 </tr>	
 
 <tr>
-<td> <img src="assets/img/2017rainbow/thumb.jpg" width="100px">		</td>		
+<td> <img src="assets/img/2017rainbow/thumb.jpg" width="150px">		</td>		
   <td><b>J. Xiong</b>, R. Idoughi, A. Aguirre-Pablo, A. Aljedaani, X. Dun, Q. Fu, S. T. Thoroddsen, W. Heidrich, &quot;Rainbow Particle Imaging Velocimetry for Dense 3D Fluid Velocity Imaging&quot;, ACM Transactions on Graphics (Proc. SIGGRAPH), 2017.
 <p>[<a href="https://vccimaging.org/Publications/Xiong2017RainbowPIV/">Project Page</a>]</p> 	
 </td>	
