@@ -74,7 +74,7 @@
 <tr>
 <td> <img src="assets/img/2020RainbowPIV/thumb.jpg" width="200px">		</td>	
 <td style="padding:20px;width:75%;vertical-align:middle">
-<p><b>RainbowPIV with improved depth resolution – <br> design and comparative study with TomoPIV</b><br>
+<p><b>RainbowPIV with Improved Depth Resolution – <br> Design and Comparative Study with TomoPIV</b><br>
 <b>J. Xiong</b>, A. Aguirre-Pablo, R. Idoughi, S. Thoroddsen, W. Heidrich<br>
 <em>Measurement Science and Technology</em> 2020</p>
 <p>[<a href="https://vccimaging.org/Publications/Xiong2020SuperDepthRainbowPIV/">Project Page</a>]</p> 	
@@ -94,7 +94,7 @@
 <tr>
 <td> <img src="assets/img/2019singlecamera/thumb.jpg" width="200px">		</td>	
 <td style="padding:20px;width:75%;vertical-align:middle">
-<p><b>Single-camera 3D PTV using particle intensities and structured light</b><br>
+<p><b>Single-camera 3D PTV Using Particle Intensities and Structured Light</b><br>
 A. A. Aguirre-Pablo, A. B. Aljedaani, <b>J. Xiong</b>, R. Idoughi, W. Heidrich, S. T. Thoroddsen<br>
 <em>Experiments in Fluids</em> 2019</p>
 <p>[<a href="https://vccimaging.org/Publications/Aguire-Pablo2019SingleCameraPTV/">Project Page</a>]</p> 	
@@ -104,7 +104,7 @@ A. A. Aguirre-Pablo, A. B. Aljedaani, <b>J. Xiong</b>, R. Idoughi, W. Heidrich, 
 <tr>
 <td> <img src="assets/img/2018nature/thumb.jpg" width="200px">	</td>	
 <td style="padding:20px;width:75%;vertical-align:middle">
-<p><b>High-throughput three-dimensional chemotactic assays reveal steepness-dependent complexity in neuronal sensation to molecular gradients</b><br>
+<p><b>High-throughput Three-dimensional Chemotactic Assays Reveal Steepness-dependent Complexity in Neuronal Sensation to Molecular Gradients</b><br>
 Z. Xu, P. Fang, B. Xu, Y. Lu, <b>J. Xiong</b>, F. Gao, X. Wang, J. Fan, P. Shi<br>
 <em>Nature communications</em> 2019</p>
 </td>	
