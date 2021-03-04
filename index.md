@@ -96,7 +96,7 @@ design and comparative study with TomoPIV&quot;, Measurement Science and Technol
 </td>	
 </tr>
 
-<br>
+<br><br><br>
 
 <tr>
 <td> <img src="assets/img/2018reconfigurable/thumb.jpg" width="100px">		</td>		
