@@ -63,7 +63,7 @@
 
 <tr>
 <td> <img src="assets/img/2021Red/thumb.jpg" width="150px">		</td>		
-<td>
+<td style="padding:20px;width:75%;vertical-align:middle">
 <p><b>Seeing in Extra Darkness Using a Deep-Red Flash</b><br>
 <b>J. Xiong</b>, J. Wang, W. Heidrich, S. Nayar<br>
 CVPR 2021 (Oral)</p>
@@ -73,7 +73,7 @@ CVPR 2021 (Oral)</p>
 
 <tr>
 <td> <img src="assets/img/2020RainbowPIV/thumb.jpg" width="150px">		</td>	
-<td>
+<td style="padding:20px;width:75%;vertical-align:middle">
 <p><b>RainbowPIV with improved depth resolution – design and comparative study with TomoPIV</b><br>
 <b>J. Xiong</b>, A. Aguirre-Pablo, R. Idoughi, S. Thoroddsen, W. Heidrich<br>
 Measurement Science and Technology 2020</p>
@@ -83,7 +83,7 @@ Measurement Science and Technology 2020</p>
 
 <tr>
 <td> <img src="assets/img/2019CSCS/thumb.jpg" width="150px">		</td>	
-<td>
+<td style="padding:20px;width:75%;vertical-align:middle">
 <p><b>Stochastic Convolutional Sparse Coding</b><br>
 <b>J. Xiong</b>, P. Richtarik, W. Heidrich<br>
 The International Symposium on Vision, Modeling and Visualization, 2019. (Best Paper Award)</p>
@@ -93,7 +93,7 @@ The International Symposium on Vision, Modeling and Visualization, 2019. (Best P
 
 <tr>
 <td> <img src="assets/img/2019singlecamera/thumb.jpg" width="150px">		</td>	
-<td>
+<td style="padding:20px;width:75%;vertical-align:middle">
 <p><b>Single-camera 3D PTV using particle intensities and structured light</b><br>
 A. A. Aguirre-Pablo, A. B. Aljedaani, <b>J. Xiong</b>, R. Idoughi, W. Heidrich, S. T. Thoroddsen<br>
 Experiments in Fluids 2019</p>
@@ -103,7 +103,7 @@ Experiments in Fluids 2019</p>
 
 <tr>
 <td> <img src="" width="100px">		</td>	
-<td>
+<td style="padding:20px;width:75%;vertical-align:middle">
 <p><b>High-throughput three-dimensional chemotactic assays reveal steepness-dependent complexity in neuronal sensation to molecular gradients</b><br>
 Z. Xu, P. Fang, B. Xu, Y. Lu, <b>J. Xiong</b>, F. Gao, X. Wang, J. Fan, P. Shi<br>
 Nature communications 2019</p>
@@ -112,7 +112,7 @@ Nature communications 2019</p>
 
 <tr>
 <td> <img src="assets/img/2018reconfigurable/thumb.jpg" width="150px">		</td>	
-<td>
+<td style="padding:20px;width:75%;vertical-align:middle">
 <p><b>Reconfigurable Rainbow PIV for 3D Flow Measurement</b><br>
 <b>J. Xiong</b>, Q. Fu, R. Idoughi, W. Heidrich<br>
 IEEE International Conference on Computational Photography (ICCP) 2018</p>	
