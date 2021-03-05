@@ -86,7 +86,7 @@
 <td style="padding:20px;width:75%;vertical-align:middle">
 <p><b>Stochastic Convolutional Sparse Coding</b><br>
 <b>J. Xiong</b>, P. Richtarik, W. Heidrich<br>
-<em>The International Symposium on Vision, Modeling and Visualization</em>, 2019 (Best Paper Award)</p>
+<em>The International Symposium on Vision, Modeling and Visualization</em>, 2019 ([<a href="https://www.vmv2019.uni-rostock.de/program/awards/"> Best Paper Award</a>])</p>
 <p>[<a href="https://vccimaging.org/Publications/Xiong2019StochasticCSC/">Project Page</a>]</p> 	
 </td>	
 </tr>	
