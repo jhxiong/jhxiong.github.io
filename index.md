@@ -47,7 +47,7 @@
 
 <p>I was fortunate to be a research intern at the Computational Imaging Lab at Snap Research (New York City) working with Jian Wang and Shree Nayar. </p>
 
-<b>I am currently on the job market. Reach out if you are interested in my research background.</b>
+<b>I am currently on the job market. Feel free to contact me if you are interested in my research background.</b>
 
 <hr>
 <h3>Education</h3>
@@ -67,7 +67,11 @@
 <p><b>Seeing in Extra Darkness Using a Deep-Red Flash</b><br>
 <b>J. Xiong</b>, J. Wang, W. Heidrich, S. Nayar<br>
 <em>CVPR</em> 2021 (Oral)</p>
-<p>Project Page [coming soon]</p> 	
+<div>
+<a href="https://vccimaging.org/Publications/Xiong2021Seeing/">[Project Page]</a>
+<a href="https://vccimaging.org/Publications/Xiong2021Seeing/Xiong2021Seeing.pdf">[Paper]</a>
+<a href="https://github.com/vccimaging/Deep-Red-Flash">[Code]</a>
+</div>
 </td>	
 </tr>
 
@@ -87,7 +91,11 @@
 <p><b>Stochastic Convolutional Sparse Coding</b><br>
 <b>J. Xiong</b>, P. Richtarik, W. Heidrich<br>
 <em>The International Symposium on Vision, Modeling and Visualization</em>, 2019 (<a href="https://www.vmv2019.uni-rostock.de/program/awards/">Best Paper Award</a>)</p>
-<p>[<a href="https://vccimaging.org/Publications/Xiong2019StochasticCSC/">Project Page</a>]</p> 	
+<div>
+<a href="https://vccimaging.org/Publications/Xiong2019StochasticCSC/">[Project Page]</a>
+<a href="https://vccimaging.org/Publications/Xiong2019StochasticCSC/Xiong2019StochasticCSC.pdf">[Paper]</a>
+<a href="https://github.com/vccimaging/Stochastic-Convolutional-Sparse-Coding">[Code]</a>
+</div> 	
 </td>	
 </tr>	
 
@@ -97,7 +105,7 @@
 <p><b>Single-camera 3D PTV Using Particle Intensities and Structured Light</b><br>
 A. A. Aguirre-Pablo, A. B. Aljedaani, <b>J. Xiong</b>, R. Idoughi, W. Heidrich, S. T. Thoroddsen<br>
 <em>Experiments in Fluids</em> 2019</p>
-<p>[<a href="https://vccimaging.org/Publications/Aguire-Pablo2019SingleCameraPTV/">Project Page</a>]</p> 	
+<p><a href="https://vccimaging.org/Publications/Aguire-Pablo2019SingleCameraPTV/">[Project Page]</a></p> 	
 </td>	
 </tr>	
 
@@ -116,7 +124,10 @@ Z. Xu, P. Fang, B. Xu, Y. Lu, <b>J. Xiong</b>, F. Gao, X. Wang, J. Fan, P. Shi<b
 <p><b>Reconfigurable Rainbow PIV for 3D Flow Measurement</b><br>
 <b>J. Xiong</b>, Q. Fu, R. Idoughi, W. Heidrich<br>
 <em>IEEE International Conference on Computational Photography (ICCP)</em> 2018</p>	
-<p>[<a href="https://vccimaging.org/Publications/Xiong2017RainbowPIV/">Project Page</a>]</p> 	
+<div>
+<a href="https://vccimaging.org/Publications/Xiong2017RainbowPIV/">[Project Page]</a>
+<a href="https://vccimaging.org/Publications/Xiong2017RainbowPIV/Xiong2018ReconfigurableRainbowPIV.pdf">[Paper]</a>	
+</div> 	
 </td>	
 </tr>	
 
@@ -126,7 +137,11 @@ Z. Xu, P. Fang, B. Xu, Y. Lu, <b>J. Xiong</b>, F. Gao, X. Wang, J. Fan, P. Shi<b
 <p><b>Rainbow Particle Imaging Velocimetry for Dense 3D Fluid Velocity Imaging</b><br>
 <b>J. Xiong</b>, R. Idoughi, A. Aguirre-Pablo, A. Aljedaani, X. Dun, Q. Fu, S. T. Thoroddsen, W. Heidrich<br>
 <em>ACM Transactions on Graphics (Proc. SIGGRAPH)</em> 2017</p>	
-<p>[<a href="https://vccimaging.org/Publications/Xiong2017RainbowPIV/">Project Page</a>]</p> 	
+<div>
+<a href="https://vccimaging.org/Publications/Xiong2017RainbowPIV/">[Project Page]</a>
+<a href="https://vccimaging.org/Publications/Xiong2017RainbowPIV/Xiong2017RainbowPIV.pdf">[Paper]</a>
+<a href="https://github.com/vccimaging/RainbowPIV">[Code]</a>
+</div> 	
 </td>	
 </tr>	
 </table>
