@@ -39,7 +39,7 @@
   
 <hr>
 <h3>Research Interests</h3>
-<p>Computational Imaging, 3D Reconstruction, Optical Flow, Numerical Optimization, Low-Light Imaging</p>  
+<p>Computational Imaging, Computer Graphics, 3D Reconstruction, Optical Flow, Numerical Optimization, Low-Light Imaging</p>  
  
 <hr>
 <h3>Biography</h3>
