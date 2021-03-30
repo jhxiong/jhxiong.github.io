@@ -65,7 +65,7 @@
 <td> <img src="assets/img/2021Red/thumb.jpg" width="200px">		</td>		
 <td style="padding:20px;width:75%;vertical-align:middle">
 <p><b>Seeing in Extra Darkness Using a Deep-Red Flash</b><br>
-<b>J. Xiong</b>, J. Wang, W. Heidrich, S. Nayar<br>
+<b>J. Xiong</b>*, J. Wang*, W. Heidrich, S. Nayar<br>
 <em>CVPR</em> 2021 (Oral)</p>
 <div>
 <a href="https://vccimaging.org/Publications/Xiong2021Seeing/">[Project Page]</a>
