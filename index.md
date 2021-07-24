@@ -62,15 +62,15 @@
 <table id="Publications" width="100%">
 
 <tr>
-<td> <img src="assets/img/2021water/thumb.jpg" width="300px">		</td>		
+<td> <img src="assets/img/2021water/thumb.jpg" width="200px">		</td>		
 <td style="padding:20px;width:75%;vertical-align:middle">
 <p><b>In-the-Wild Single Camera 3D Reconstruction Through Moving Water Surfaces</b><br>
 <b>J. Xiong</b>, W. Heidrich<br>
 <em>ICCV</em> 2021 (<font color="red">Oral</font>)</p>
 <div>
 <a href="https://vccimaging.org/Publications/Xiong2021MovingWater/">[Project Page]</a>
-<a>[Paper (Coming Soon)]</a>
-<a>[Code (Coming Soon)]</a>
+[Paper (Coming Soon)]
+[Code (Coming Soon)]
 </div>
 </td>	
 </tr>	
@@ -80,7 +80,7 @@
 <td style="padding:20px;width:75%;vertical-align:middle">
 <p><b>Seeing in Extra Darkness Using a Deep-Red Flash</b><br>
 <b>J. Xiong</b>*, J. Wang*, W. Heidrich, S. Nayar<br>
-<em>CVPR</em> 2021 (Oral)</p>
+<em>CVPR</em> 2021 (<font color="red">Oral</font>)</p>
 <div>
 <a href="https://vccimaging.org/Publications/Xiong2021Seeing/">[Project Page]</a>
 <a href="https://vccimaging.org/Publications/Xiong2021Seeing/Xiong2021Seeing.pdf">[Paper]</a>
