@@ -62,6 +62,20 @@
 <table id="Publications" width="100%">
 
 <tr>
+<td> <img src="assets/img/2021water/thumb.jpg" width="300px">		</td>		
+<td style="padding:20px;width:75%;vertical-align:middle">
+<p><b>In-the-Wild Single Camera 3D Reconstruction Through Moving Water Surfaces</b><br>
+<b>J. Xiong</b>, W. Heidrich<br>
+<em>ICCV</em> 2021 (<font color="red">Oral</font>)</p>
+<div>
+<a href="https://vccimaging.org/Publications/Xiong2021MovingWater/">[Project Page]</a>
+<a>[Paper (Coming Soon)]</a>
+<a>[Code (Coming Soon)]</a>
+</div>
+</td>	
+</tr>	
+	
+<tr>
 <td> <img src="assets/img/2021Red/thumb.jpg" width="200px">		</td>		
 <td style="padding:20px;width:75%;vertical-align:middle">
 <p><b>Seeing in Extra Darkness Using a Deep-Red Flash</b><br>
@@ -123,7 +137,7 @@ Z. Xu, P. Fang, B. Xu, Y. Lu, <b>J. Xiong</b>, F. Gao, X. Wang, J. Fan, P. Shi<b
 <td style="padding:20px;width:75%;vertical-align:middle">
 <p><b>Reconfigurable Rainbow PIV for 3D Flow Measurement</b><br>
 <b>J. Xiong</b>, Q. Fu, R. Idoughi, W. Heidrich<br>
-<em>IEEE International Conference on Computational Photography (ICCP)</em> 2018</p>	
+<em>IEEE International Conference on Computational Photography (ICCP)</em> 2018 (Oral)</p>	
 <div>
 <a href="https://vccimaging.org/Publications/Xiong2017RainbowPIV/">[Project Page]</a>
 <a href="https://vccimaging.org/Publications/Xiong2017RainbowPIV/Xiong2018ReconfigurableRainbowPIV.pdf">[Paper]</a>	
@@ -153,6 +167,11 @@ Z. Xu, P. Fang, B. Xu, Y. Lu, <b>J. Xiong</b>, F. Gao, X. Wang, J. Fan, P. Shi<b
 Wolfgang Heidrich, <b>Jinhui Xiong</b>, Xiong Dun, Ramzi Idoughi, Sigurdur Tryggvi Thoroddsen,
 Andres A Aguirre-Pablo, Abdulrahman B Aljedaani, Erqiang Li, “Rainbow Particle Imaging
 Velocimetry for Dense 3D Fluid Velocity Imaging,” Aug 2018, U.S. Patent 15,498,317.
+</td>	
+</tr>	
+<tr>		
+<td>
+Sigurdur Tryggvi Thoroddsen, Andres A Aguirre-Pablo, Wolfgang Heidrich, <b>Jinhui Xiong</b>, Abdulrahman B Aljedaani, Ramzi Idoughi, “Single-camera particle tracking system and method,” June 2021, U.S. Patent 17,058,168.
 </td>	
 </tr>	
 </table>
