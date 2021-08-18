@@ -69,8 +69,8 @@
 <em>ICCV</em> 2021 (<font color="red">Oral</font>)</p>
 <div>
 <a href="https://vccimaging.org/Publications/Xiong2021MovingWater/">[Project Page]</a>
-[Paper (Coming Soon)]
-[Code (Coming Soon)]
+<a href="https://vccimaging.org/Publications/Xiong2021MovingWater/Xiong2021MovingWater.pdf">[Paper]</a>
+<a href="https://github.com/vccimaging/Reconstrution_Through_Moving_Water">[Code]</a>
 </div>
 </td>	
 </tr>	
