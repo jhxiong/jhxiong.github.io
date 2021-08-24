@@ -47,7 +47,6 @@
 
 <p>I was fortunate to be a research intern at the Computational Imaging Lab at Snap Research (New York City) working with Jian Wang and Shree Nayar. </p>
 
-<b>I am currently on the job market. Feel free to contact me if you are interested in my research background.</b>
 
 <hr>
 <h3>Education</h3>
