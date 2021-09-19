@@ -43,7 +43,7 @@
  
 <hr>
 <h3>Biography</h3>
-<p>Jinhui Xiong is a final-year Computer Science PhD student at Visual Computing Center, King Abdullah University of Science and Technology  (KAUST), working with Professor <a href="https://vccimaging.org/People/heidriw/">Wolfgang Heidrich</a>. My work is at the intersection of computational imaging, computer vision, computer graphics, optimization. My research goal is to design novel imaging methodologies that can be utilized for 3D scene reconstruction or related research topics.</p>
+I obtained my PhD from King Abdullah University of Science and Technology (KAUST). I worked at <a href="https://vccimaging.org/">Visual Computing Center</a> with Professor <a href="https://vccimaging.org/People/heidriw/">Wolfgang Heidrich</a>. My work is at the intersection of computational imaging, computer vision, computer graphics, optimization. My research goal is to design novel imaging methodologies that can be utilized for 3D scene reconstruction or related research topics.</p>
 
 <p>I was fortunate to be a research intern at the Computational Imaging Lab at Snap Research (New York City) working with Jian Wang and Shree Nayar. </p>
 
@@ -51,7 +51,7 @@
 <hr>
 <h3>Education</h3>
 <ul>
-  <li>2017 - Now: Ph.D. in Computer Science, KAUST</li>
+  <li>2017 - 2021: Ph.D. in Computer Science, KAUST</li>
   <li>2015 - 2016: M. Sc in Computer Science, KAUST</li>
   <li>2011 - 2015: B. Eng in Electrical Engineering, City University of Hong Kong</li>
 </ul>
