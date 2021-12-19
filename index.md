@@ -43,13 +43,14 @@
  
 <hr>
 <h3>Biography</h3>
-<p>I obtained my PhD from King Abdullah University of Science and Technology (KAUST). I worked at <a href="https://vccimaging.org/">Visual Computing Center</a> with Professor <a href="https://vccimaging.org/People/heidriw/">Wolfgang Heidrich</a>. My work is at the intersection of computational imaging, computer vision, computer graphics, optimization. My research goal is to design novel imaging methodologies that can be utilized for 3D scene reconstruction or related research topics.</p>
+<p>I obtained my PhD from King Abdullah University of Science and Technology (KAUST). I worked at <a href="https://vccimaging.org/">Visual Computing Center</a> with Professor <a href="https://vccimaging.org/People/heidriw/">Wolfgang Heidrich</a>. My work is at the intersection of computational photography, computer vision, computer graphics and optimization. My research goal is to design novel imaging methodologies that can be utilized for 3D scene reconstruction or related research topics.</p>
 
 <p>You can find my PhD Thesis <a href="https://vccimaging.org/Publications/Xiong2021Dissertation/Xiong2021Dissertation.pdf">here</a>.</p>
 	
 <p>I was fortunate to be a research intern at the Computational Imaging Lab at Snap Research (New York City) working with Jian Wang and Shree Nayar. </p>
 
-
+<p>I will join Meta (Facebook) Reality Lab as a Research Scientist.
+	
 <hr>
 <h3>Education</h3>
 <ul>
