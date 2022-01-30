@@ -49,7 +49,7 @@
 	
 <p>I was fortunate to be a research intern at the Computational Imaging Lab at Snap Research (New York City) working with Jian Wang and Shree Nayar. </p>
 
-<p>I will join Meta (Facebook) Reality Lab as a Research Scientist.
+<p>I am now a Research Scientist at Meta (Facebook) Reality Lab.
 	
 <hr>
 <h3>Education</h3>
