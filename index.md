@@ -62,6 +62,20 @@
 <h3>Publications</h3>
 <p><a href="https://scholar.google.com/citations?user=G2aQMDEAAAAJ&hl=en">Google Scholar</a></p>
 <table id="Publications" width="100%">
+
+<tr>
+<td> <img src="assets/img/2023consistent/thumb.png" width="200px">		</td>		
+<td style="padding:20px;width:75%;vertical-align:middle">
+<p><b>Consistent Direct Time-of-Flight Video Depth Super-Resolution</b><br>
+Zhanghao Sun, Wei Ye, <b>Jinhui Xiong</b>, Gyeongmin "Chris" Choe, Jialiang Wang, Shuochen Su, Rakesh Ranjan<br>
+<em>CVPR</em> 2023 (<font color="red">Oral</font>)</p>
+<div>
+<a href="https://zhsun0357.github.io/consistent_dtof_video/">[Project Page]</a>
+<a href="https://arxiv.org/pdf/2211.08658.pdf">[Paper]</a>
+<a>[Code (coming soon)]</a>
+</div>
+</td>	
+</tr>
 	
 <tr>
 <td> <img src="assets/img/2021water/thumb.jpg" width="200px">		</td>		
